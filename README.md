@@ -1,3 +1,4 @@
 # İlk Web Sayfam
 
-![Ekran görüntüsü 2025-03-12 173905](https://github.com/user-attachments/assets/e2a72e3e-6321-4f99-bf18-dfa2fe37fbd2)
+
+![Ekran görüntüsü 2025-03-12 174615](https://github.com/user-attachments/assets/8d8cb9e0-3f28-4528-9930-e48d8c6363ec)
